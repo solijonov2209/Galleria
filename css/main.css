@@ -167,7 +167,7 @@ text-decoration: none;
   -ms-grid-column: 3;
 
 }
-.slide-inner > *:nth-child(15){
+.slide-inner > g*:nth-child(15){
   -ms-grid-row: 7;
   -ms-grid-column: 5;
 
