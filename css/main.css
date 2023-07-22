@@ -83,7 +83,7 @@ text-decoration: none;
 /* Start Slide section */
 .slide{
   padding-top: 40px;
-  padding-bottom: 40px;
+  padding-bottom: 311px;
 } 
 .galeria-list{
   display: -ms-grid;
@@ -145,6 +145,12 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 opacity: 0.6;
+}
+.title-desc-wrapper{
+  width: 200px;
+}
+.title-desc-wrapperr{
+  width: 160px;
 }
  .galeria-list-item:first-child .slide-card:first-child{
   background-image: url("../images/Mask1.png");
